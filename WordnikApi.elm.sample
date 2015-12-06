@@ -1,0 +1,3 @@
+module WordnikApi where
+
+wordnikApiKey = "API-KEY-HERE"
